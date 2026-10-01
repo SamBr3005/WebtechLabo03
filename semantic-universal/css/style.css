@@ -1,0 +1,35 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #14213d;
+}
+body,section{
+    background-color: #e5e5e5;
+}
+header,footer , h2 {
+    background-color: #14213d;
+}
+nav ,aside {
+    background-color: #fca311;
+}
+main, article {
+    background-color: #ffffff;
+}
+h1,h2,footer {
+    color: white;
+}
+h1 {
+    text-transform: capitalize;
+    letter-spacing: 2px;
+}
+footer {
+    text-align: center;
+}
+nav li {
+    list-style: none;
+    text-decoration: none;
+    
+}
+a {
+    text-decoration: none;
+    font-weight: bold;
+}
