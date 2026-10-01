@@ -530,3 +530,438 @@
 {"ts":"2026-10-01T08:37:42.512Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/background/index.html","status":304,"duration_ms":0}}
 {"ts":"2026-10-01T08:37:42.546Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/background/css/style.css","status":200,"duration_ms":0}}
 {"ts":"2026-10-01T08:37:42.801Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c90","url":"http://localhost:5500/background/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:39:21.052Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:39:21.052Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:39:21.054Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c90"}}
+{"ts":"2026-10-01T08:39:22.066Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/background/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:39:22.068Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c91","url":"http://localhost:5500/background/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:39:22.401Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:39:22.401Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:39:22.403Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c91"}}
+{"ts":"2026-10-01T08:39:23.430Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/background/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:39:23.438Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c92","url":"http://localhost:5500/background/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:39:26.117Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:39:26.117Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:39:26.120Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c92"}}
+{"ts":"2026-10-01T08:39:26.135Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/background/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:39:26.222Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/background/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:39:26.432Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c93","url":"http://localhost:5500/background/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:39:30.286Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:39:30.286Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:39:30.289Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c93"}}
+{"ts":"2026-10-01T08:39:30.311Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/background/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:39:30.330Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/background/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:39:30.698Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c94","url":"http://localhost:5500/background/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:40:23.481Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:40:23.481Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:40:23.482Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c94"}}
+{"ts":"2026-10-01T08:40:23.490Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/background/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:40:23.515Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/background/css/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:40:26.883Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:40:27.965Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c95","url":"http://localhost:5500/background/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:40:28.311Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:40:28.312Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:40:28.313Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c95"}}
+{"ts":"2026-10-01T08:40:28.321Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/background/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:40:28.339Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/background/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:40:28.661Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c96","url":"http://localhost:5500/background/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:40:47.125Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-01T08:40:47.146Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:40:47.166Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c97","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:40:50.030Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c96"}}
+{"ts":"2026-10-01T08:41:05.687Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:41:05.687Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:41:05.690Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c97"}}
+{"ts":"2026-10-01T08:41:05.700Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:41:05.729Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:41:06.227Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c98","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:41:07.929Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:41:07.929Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:41:07.932Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c98"}}
+{"ts":"2026-10-01T08:41:07.940Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:41:07.963Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:41:08.165Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c99","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:41:11.562Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:41:11.562Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:41:11.567Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c99"}}
+{"ts":"2026-10-01T08:41:11.602Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:41:11.630Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:41:11.780Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c100","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:41:13.670Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:41:13.670Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:41:13.673Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c100"}}
+{"ts":"2026-10-01T08:41:13.688Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:41:13.736Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-01T08:41:13.939Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c101","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:42:40.193Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:42:40.193Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:42:40.195Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c101"}}
+{"ts":"2026-10-01T08:42:40.210Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-01T08:42:40.232Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:42:40.455Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c102","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:42:44.957Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:42:44.958Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:42:44.970Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c102"}}
+{"ts":"2026-10-01T08:42:44.980Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:42:44.999Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:42:45.348Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c103","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:42:48.543Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:42:48.543Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:42:48.544Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c103"}}
+{"ts":"2026-10-01T08:42:48.557Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":2}}
+{"ts":"2026-10-01T08:42:48.604Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:42:48.818Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c104","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:43:01.205Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:43:01.205Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:43:01.207Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c104"}}
+{"ts":"2026-10-01T08:43:01.213Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-01T08:43:01.232Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:43:01.452Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c105","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:43:03.512Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:43:03.512Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:43:03.515Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c105"}}
+{"ts":"2026-10-01T08:43:03.523Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-01T08:43:03.547Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:43:03.911Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c106","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:43:07.173Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:43:07.173Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:43:07.177Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c106"}}
+{"ts":"2026-10-01T08:43:07.189Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":2}}
+{"ts":"2026-10-01T08:43:07.214Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:43:07.449Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c107","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:43:15.069Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:43:15.069Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:43:15.071Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c107"}}
+{"ts":"2026-10-01T08:43:15.082Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-01T08:43:15.111Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:43:15.315Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c108","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:43:16.875Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:43:16.875Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:43:16.879Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c108"}}
+{"ts":"2026-10-01T08:43:16.889Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:43:16.910Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:43:17.101Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c109","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:43:21.509Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:43:21.509Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:43:21.511Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c109"}}
+{"ts":"2026-10-01T08:43:21.523Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:43:21.546Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:43:21.914Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c110","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:43:43.428Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:43:43.428Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:43:43.430Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c110"}}
+{"ts":"2026-10-01T08:43:43.441Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":3}}
+{"ts":"2026-10-01T08:43:43.465Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:43:43.682Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c111","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:43:52.298Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:43:52.298Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:43:52.300Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c111"}}
+{"ts":"2026-10-01T08:43:52.309Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-01T08:43:52.330Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:43:52.707Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c112","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:43:59.376Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:43:59.376Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:43:59.378Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c112"}}
+{"ts":"2026-10-01T08:43:59.391Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:43:59.415Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:43:59.692Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c113","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:44:00.953Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:44:00.953Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:44:00.954Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c113"}}
+{"ts":"2026-10-01T08:44:00.965Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":3}}
+{"ts":"2026-10-01T08:44:00.984Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:44:01.321Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c114","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:44:02.405Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:44:02.405Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:44:02.407Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c114"}}
+{"ts":"2026-10-01T08:44:02.418Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":3}}
+{"ts":"2026-10-01T08:44:02.440Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:44:02.782Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c115","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:44:23.259Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:44:23.259Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:44:23.262Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c115"}}
+{"ts":"2026-10-01T08:44:23.272Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-01T08:44:23.289Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:44:23.647Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c116","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:44:25.266Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:44:25.266Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:44:25.268Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c116"}}
+{"ts":"2026-10-01T08:44:25.280Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-01T08:44:25.305Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:44:25.550Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c117","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:44:26.707Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:44:26.707Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:44:26.708Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c117"}}
+{"ts":"2026-10-01T08:44:26.721Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":3}}
+{"ts":"2026-10-01T08:44:26.740Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:44:27.076Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c118","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:44:31.074Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:44:31.074Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:44:31.076Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c118"}}
+{"ts":"2026-10-01T08:44:31.097Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":7}}
+{"ts":"2026-10-01T08:44:31.125Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:44:31.444Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c119","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:44:32.685Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:44:32.685Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:44:32.688Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c119"}}
+{"ts":"2026-10-01T08:44:32.699Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-01T08:44:32.723Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:44:33.028Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c120","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:44:34.013Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:44:34.013Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:44:34.017Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c120"}}
+{"ts":"2026-10-01T08:44:34.026Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-01T08:44:34.057Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:44:34.420Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c121","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:44:41.352Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:44:41.352Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:44:41.354Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c121"}}
+{"ts":"2026-10-01T08:44:41.364Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":4}}
+{"ts":"2026-10-01T08:44:41.388Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:44:41.656Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c122","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:44:45.761Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:44:45.761Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:44:45.764Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c122"}}
+{"ts":"2026-10-01T08:44:45.778Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-01T08:44:45.809Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:44:46.005Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c123","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:44:56.932Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:44:56.932Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:44:56.934Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c123"}}
+{"ts":"2026-10-01T08:44:56.947Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":4}}
+{"ts":"2026-10-01T08:44:56.967Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:44:57.172Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c124","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:44:58.527Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:44:58.528Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:44:58.531Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c124"}}
+{"ts":"2026-10-01T08:44:58.549Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":6}}
+{"ts":"2026-10-01T08:44:58.584Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:44:58.849Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c125","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:45:06.597Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:45:06.597Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:45:06.598Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c125"}}
+{"ts":"2026-10-01T08:45:06.613Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":2}}
+{"ts":"2026-10-01T08:45:06.634Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:45:06.844Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c126","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:45:15.352Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:45:15.352Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:45:15.354Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c126"}}
+{"ts":"2026-10-01T08:45:15.368Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":5}}
+{"ts":"2026-10-01T08:45:15.394Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:45:15.601Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c127","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:45:18.416Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:45:18.417Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:45:18.418Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c127"}}
+{"ts":"2026-10-01T08:45:18.430Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-01T08:45:18.461Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:45:18.760Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c128","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:45:23.638Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:45:23.638Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:45:23.640Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c128"}}
+{"ts":"2026-10-01T08:45:23.653Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":5}}
+{"ts":"2026-10-01T08:45:23.679Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:45:23.912Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c129","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:45:26.142Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:45:26.142Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:45:26.145Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c129"}}
+{"ts":"2026-10-01T08:45:26.161Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":3}}
+{"ts":"2026-10-01T08:45:26.182Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:45:26.456Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c130","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:45:28.996Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:45:28.996Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:45:28.998Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c130"}}
+{"ts":"2026-10-01T08:45:29.012Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":7}}
+{"ts":"2026-10-01T08:45:29.034Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:45:29.252Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c131","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:45:34.541Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:45:34.541Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:45:34.543Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c131"}}
+{"ts":"2026-10-01T08:45:34.559Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":7}}
+{"ts":"2026-10-01T08:45:34.584Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:45:34.916Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c132","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:45:39.941Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:45:39.941Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:45:39.943Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c132"}}
+{"ts":"2026-10-01T08:45:39.959Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":3}}
+{"ts":"2026-10-01T08:45:39.989Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:45:40.199Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c133","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:45:46.299Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:45:46.299Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:45:46.301Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c133"}}
+{"ts":"2026-10-01T08:45:46.311Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:45:46.332Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:45:46.563Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c134","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:46:53.272Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:46:53.272Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:46:53.274Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c134"}}
+{"ts":"2026-10-01T08:46:53.295Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":6}}
+{"ts":"2026-10-01T08:46:53.306Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:46:53.666Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c135","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:46:55.257Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:46:55.257Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:46:55.258Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c135"}}
+{"ts":"2026-10-01T08:46:55.359Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:46:55.380Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:46:55.596Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c136","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:46:59.035Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:46:59.035Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:46:59.037Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c136"}}
+{"ts":"2026-10-01T08:46:59.044Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:46:59.070Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:46:59.409Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c137","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:47:04.793Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:47:04.793Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:47:04.799Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c137"}}
+{"ts":"2026-10-01T08:47:04.821Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:47:04.855Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:47:05.081Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c138","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:47:06.741Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:47:06.741Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:47:06.744Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c138"}}
+{"ts":"2026-10-01T08:47:06.759Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:47:06.812Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-01T08:47:06.995Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c139","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:47:08.837Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:47:08.837Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:47:08.839Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c139"}}
+{"ts":"2026-10-01T08:47:08.848Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:47:08.883Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-01T08:47:09.218Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c140","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:47:11.248Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:47:11.248Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:47:11.250Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c140"}}
+{"ts":"2026-10-01T08:47:11.263Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:47:11.290Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-01T08:47:11.521Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c141","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:47:12.640Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:47:12.641Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:47:12.642Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c141"}}
+{"ts":"2026-10-01T08:47:12.648Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:47:12.671Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:47:12.910Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c142","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:47:16.787Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:47:16.787Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:47:16.790Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c142"}}
+{"ts":"2026-10-01T08:47:16.801Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:47:16.830Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-01T08:47:17.142Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c143","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:47:39.443Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:47:39.443Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:47:39.445Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c143"}}
+{"ts":"2026-10-01T08:47:39.458Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:47:39.479Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":1}}
+{"ts":"2026-10-01T08:47:43.210Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c144","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:47:43.227Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:47:43.227Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:47:43.229Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c144"}}
+{"ts":"2026-10-01T08:47:43.237Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:47:43.263Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:47:43.513Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c145","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:47:44.483Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:47:44.483Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:47:44.485Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c145"}}
+{"ts":"2026-10-01T08:47:44.493Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:47:44.521Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:47:44.892Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c146","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:47:47.964Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:47:47.982Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:47:48.002Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c147","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:48:06.949Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c146"}}
+{"ts":"2026-10-01T08:48:22.286Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:48:22.286Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:48:22.288Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c147"}}
+{"ts":"2026-10-01T08:48:22.296Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":1}}
+{"ts":"2026-10-01T08:48:22.307Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:48:22.679Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c148","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:48:24.767Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:48:24.767Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:48:24.769Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c148"}}
+{"ts":"2026-10-01T08:48:24.783Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":3}}
+{"ts":"2026-10-01T08:48:24.806Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:48:25.088Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c149","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:48:27.047Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:48:27.047Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:48:27.049Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c149"}}
+{"ts":"2026-10-01T08:48:27.064Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":3}}
+{"ts":"2026-10-01T08:48:27.088Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:48:27.306Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c150","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:48:33.061Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/index.html","ext":"html","change":"modify"}}
+{"ts":"2026-10-01T08:48:33.061Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/index.html","reload_type":"full"}}
+{"ts":"2026-10-01T08:48:33.063Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c150"}}
+{"ts":"2026-10-01T08:48:33.077Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":200,"duration_ms":5}}
+{"ts":"2026-10-01T08:48:33.102Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:48:33.382Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c151","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:48:38.171Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:48:38.171Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:48:38.174Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c151"}}
+{"ts":"2026-10-01T08:48:38.182Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:48:38.215Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:48:38.538Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c152","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:48:40.126Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:48:40.126Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:48:40.128Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c152"}}
+{"ts":"2026-10-01T08:48:40.136Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:48:40.159Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:48:40.535Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c153","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:48:42.014Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:48:42.014Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:48:42.016Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c153"}}
+{"ts":"2026-10-01T08:48:42.026Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:48:42.045Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:48:42.366Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c154","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:48:50.822Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c154"}}
+{"ts":"2026-10-01T08:48:50.828Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:48:50.837Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:48:51.124Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c155","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:48:53.557Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c155"}}
+{"ts":"2026-10-01T08:48:53.560Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:48:53.571Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:48:53.949Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c156","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:49:00.337Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:49:00.337Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:49:00.338Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c156"}}
+{"ts":"2026-10-01T08:49:00.350Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":1}}
+{"ts":"2026-10-01T08:49:00.402Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:49:00.628Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c157","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:49:08.178Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:49:08.178Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:49:08.179Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c157"}}
+{"ts":"2026-10-01T08:49:08.188Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:49:08.199Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:49:08.506Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c158","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:49:09.961Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:49:09.961Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:49:09.962Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c158"}}
+{"ts":"2026-10-01T08:49:09.968Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:49:09.979Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:49:10.203Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c159","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:49:17.222Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:49:17.222Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:49:17.224Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c159"}}
+{"ts":"2026-10-01T08:49:17.231Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:49:17.247Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:49:17.641Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c160","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:49:19.211Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:49:19.211Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:49:19.212Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c160"}}
+{"ts":"2026-10-01T08:49:19.216Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:49:19.235Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:49:19.511Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c161","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:49:37.726Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:49:37.726Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:49:37.728Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c161"}}
+{"ts":"2026-10-01T08:49:37.734Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:49:37.749Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:49:38.009Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c162","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:49:42.504Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:49:42.504Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:49:42.506Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c162"}}
+{"ts":"2026-10-01T08:49:42.514Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:49:42.530Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":0}}
+{"ts":"2026-10-01T08:49:42.901Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c163","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
+{"ts":"2026-10-01T08:49:46.281Z","session":"20261001-082352","kind":"file_change","data":{"path":"compositie/css/style.css","ext":"css","change":"modify"}}
+{"ts":"2026-10-01T08:49:46.281Z","session":"20261001-082352","kind":"reload_trigger","data":{"path":"compositie/css/style.css","reload_type":"css"}}
+{"ts":"2026-10-01T08:49:46.282Z","session":"20261001-082352","kind":"ws_disconnect","data":{"client_id":"c163"}}
+{"ts":"2026-10-01T08:49:46.288Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/index.html","status":304,"duration_ms":0}}
+{"ts":"2026-10-01T08:49:46.302Z","session":"20261001-082352","kind":"http_request","data":{"method":"GET","path":"/compositie/css/style.css","status":200,"duration_ms":2}}
+{"ts":"2026-10-01T08:49:46.625Z","session":"20261001-082352","kind":"ws_connect","data":{"client_id":"c164","url":"http://localhost:5500/compositie/index.html","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0","viewport":[1520,800]}}
